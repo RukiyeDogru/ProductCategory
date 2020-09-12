@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Domain.Service.Impl\\P.C.Domain.Service.Impl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Domain.Service.Impl\\P.C.Domain.Service.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Domain.Service.Impl\\P.C.Domain.Service.Impl.csproj",
+        "projectName": "P.C.Domain.Service.Impl",
+        "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Domain.Service.Impl\\P.C.Domain.Service.Impl.csproj",
+        "packagesPath": "C:\\Users\\apphi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Domain.Service.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\P.C.Inftra.Core.csproj": {
+                "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\P.C.Inftra.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\P.C.Inftra.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\P.C.Inftra.Core.csproj",
+        "projectName": "P.C.Inftra.Core",
+        "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\P.C.Inftra.Core.csproj",
+        "packagesPath": "C:\\Users\\apphi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\P.C.Inftra.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\P.C.Inftra.DataAccess.csproj"
+              },
+              "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj": {
+                "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\P.C.Inftra.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\P.C.Inftra.DataAccess.csproj",
+        "projectName": "P.C.Inftra.DataAccess",
+        "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\P.C.Inftra.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\apphi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj": {
+                "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj",
+        "projectName": "P.C.Inftra.Entities",
+        "projectPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\P.C.Inftra.Entities.csproj",
+        "packagesPath": "C:\\Users\\apphi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apphi\\source\\repos\\ProductCategory\\P.C.Inftra.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\apphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

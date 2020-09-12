@@ -1,0 +1,9 @@
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\bin\Debug\netcoreapp3.1\P.C.Inftra.Entities.deps.json
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\bin\Debug\netcoreapp3.1\P.C.Inftra.Entities.dll
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\bin\Debug\netcoreapp3.1\P.C.Inftra.Entities.pdb
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.csprojAssemblyReference.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.AssemblyInfoInputs.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.AssemblyInfo.cs
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.csproj.CoreCompileInputs.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.dll
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Entities\obj\Debug\netcoreapp3.1\P.C.Inftra.Entities.pdb

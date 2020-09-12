@@ -1,0 +1,4 @@
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Core\obj\Debug\netcoreapp3.1\P.C.Inftra.Core.csprojAssemblyReference.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Core\obj\Debug\netcoreapp3.1\P.C.Inftra.Core.AssemblyInfoInputs.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Core\obj\Debug\netcoreapp3.1\P.C.Inftra.Core.AssemblyInfo.cs
+C:\Users\apphi\source\repos\ProductCategory\P.C.Inftra.Core\obj\Debug\netcoreapp3.1\P.C.Inftra.Core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\obj\Debug\netcoreapp3.1\P.C.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\obj\Debug\netcoreapp3.1\P.C.Domain.Service.AssemblyInfo.cs
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\obj\Debug\netcoreapp3.1\P.C.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\obj\Debug\netcoreapp3.1\P.C.Domain.Service.csprojAssemblyReference.cache
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\bin\Debug\netcoreapp3.1\P.C.Inftra.Core.dll
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\bin\Debug\netcoreapp3.1\P.C.Inftra.DataAccess.dll
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\bin\Debug\netcoreapp3.1\P.C.Inftra.Entities.dll
+C:\Users\apphi\source\repos\ProductCategory\P.C.Domain.Service\bin\Debug\netcoreapp3.1\P.C.Inftra.Entities.pdb
